@@ -7,12 +7,15 @@
 - tell 0855025559
 - fb rawit wongsanganan
 - ig time_rwx
+### personality
+- arrogant
+- shy
 ### education
 - bodindecha sing singhaseni 
 - thammasat university (dsi)  
 ### skill
 - playing instument
-- drawintg
+- drawing
 ### experience
 - 2nd in batminton
 - project pbl stem
